@@ -7,9 +7,6 @@
   "license": "MIT",
   "main": "./dist/api-i18n-data.js",
   "jsnext:main": "index.js",
-  "dependencies": {
-    "lodash-es": "^4.14.1"
-  },
   "devDependencies": {
     "rollup": "^0.26.3"
   },
