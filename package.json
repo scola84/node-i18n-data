@@ -7,8 +7,15 @@
   "license": "MIT",
   "main": "./dist/api-i18n-data.js",
   "jsnext:main": "index.js",
+  "dependencies": {
+    "@scola/api-http": "^1.0.0",
+    "@scola/api-model": "^1.0.0",
+    "@scola/api-router": "^1.0.0",
+    "@scola/api-ws": "^1.0.0",
+    "@scola/validator": "^5.0.0"
+  },
   "devDependencies": {
-    "rollup": "^0.34.13"
+    "rollup": "^0.35.9"
   },
   "scripts": {
     "build": "rollup -i index.js -o ./dist/api-i18n-data.js -f cjs"
