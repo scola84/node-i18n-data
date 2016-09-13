@@ -1,6 +1,6 @@
 {
   "name": "@scola/i18n-data",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "I18n Data",
   "repository": "github:scola84/node-api-i18n-data",
   "author": "M.C. van den Boogaart <scola@kvdb.name>",
